@@ -31,6 +31,9 @@
   <a href="https://twitter.com/Yaw__Amponsah" target="_blank">
      <img src="https://img.shields.io/badge/twitter-FF5722?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a href="https://kremlin.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-0077B5?style=for-the-badge&logo=Hashnode&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
