@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AI-Amponsah.AI-Amponsah" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kremlin-dev.Kremlin-dev" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Isaac+Amponsah!;" />
@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Expressjs, NodeJs, MongoDb**
 
- 💬 Ask me about **Node.js, Python, Mysql, MongoDB... or anything [here](https://github.com/AI-Amponsah/AI-Amponsah/issues)**
+ 💬 Ask me about **Node.js, Python, Mysql, MongoDB... or anything [here](https://github.com/Kremlin-dev/Kremlin-dev/issues)**
 
  ⚡ Fun fact **Ada Lovelace, the world's first computer programmer, wrote the first algorithm for Charles Babbage's Analytical Engine in the 1800s, pioneering the 
                        field of programming.**
