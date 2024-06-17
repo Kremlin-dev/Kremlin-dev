@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **an Internship Web Application Portal**
  
- 🌱 I’m currently learning **Expressjs, NodeJs, MongoDb**
+ 🌱 I’m currently learning **Django and Javascript**
 
  💬 Ask me about **Node.js, Python, Mysql, MongoDB... or anything [here](https://github.com/Kremlin-dev/Kremlin-dev/issues)**
 
@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,git,linux" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,mysql,postgresql,flask" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql,postgresql,flask" />
 </div>
 <br/>
 
