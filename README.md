@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Django and Javascript**
 
- 💬 Ask me about **Node.js, Python, Mysql, MongoDB... or anything [here](https://github.com/Kremlin-dev/Kremlin-dev/issues)**
+ 💬 Ask me about ** Technical writing, Python, Mysql, software development [here](https://github.com/Kremlin-dev/Kremlin-dev/issues)**
 
  ⚡ Fun fact **Ada Lovelace, the world's first computer programmer, wrote the first algorithm for Charles Babbage's Analytical Engine in the 1800s, pioneering the 
                        field of programming.**
