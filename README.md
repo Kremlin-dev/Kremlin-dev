@@ -11,9 +11,9 @@
  
  <!-- 🔭 I’m currently working on **** -->
  
- 🌱 I’m currently learning **Django and Javascript**
+ 🌱 I’m currently learning **Power BI and Software Design & Architecture **
 
- 💬 Ask me about ** Technical writing, Python, Mysql, software development [here](https://github.com/Kremlin-dev/Kremlin-dev/issues)**
+ 💬 Ask me about ** Technical writing, software development [here](https://github.com/Kremlin-dev/Kremlin-dev/issues)**
 
  ⚡ Fun fact **Ada Lovelace, the world's first computer programmer, wrote the first algorithm for Charles Babbage's Analytical Engine in the 1800s, pioneering the 
                        field of programming.**
